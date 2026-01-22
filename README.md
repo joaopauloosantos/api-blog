@@ -1,7 +1,3 @@
-Parabéns pela conclusão do projeto! Ficou uma arquitetura muito sólida e profissional.
-
-Aqui está um modelo de README.md pronto para você copiar e colar na raiz do seu repositório. Ele está formatado em Markdown, com emojis para facilitar a leitura e seções claras, exatamente como recrutadores e tech leads gostam de ver.
-
 📝 SimpleBlog API
 API RESTful desenvolvida para gerenciamento de postagens e comentários de um blog simples. O projeto foca em boas práticas de arquitetura, separação de responsabilidades e performance.
 
