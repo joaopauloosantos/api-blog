@@ -79,6 +79,6 @@ Testes Automatizados: Criação de testes unitários (xUnit) para a camada de Se
 
 Banco de Dados Real: Substituição do provedor InMemory por um banco relacional robusto como SQL Server ou PostgreSQL rodando em Docker.
 
-Frontend: Desenvolvimento de uma interface gráfica (Mini Front) em React, Angular ou Blazor para consumir a API.
+Frontend: Desenvolvimento de uma interface gráfica (Mini Front) em React para consumir a API.
 
 Cloud & CI/CD: Configuração de pipelines de deploy automático e hospedagem do serviço em nuvem (Azure App Service ou AWS Lambda/EC2).
