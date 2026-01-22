@@ -1,0 +1,9 @@
+SimpleBlog/.vs/
+SimpleBlog/SimpleBlog.API/bin/
+SimpleBlog/SimpleBlog.API/obj/
+SimpleBlog/SimpleBlog.Domain/obj/
+SimpleBlog/SimpleBlog.Dto/obj/
+SimpleBlog/SimpleBlog.Repository/bin/
+SimpleBlog/SimpleBlog.Repository/obj/
+SimpleBlog/SimpleBlog.Service/bin/
+SimpleBlog/SimpleBlog.Service/obj/
